@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Portfolio </h2>
 
 - <b>Microsoft Azure/ cloud projects</b>
-  - [Created a Live SOC/Honeynet]
+  - [Created a Live SOC/Honeynet](https://github.com/edroeffortless/Virtual-SOC)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
